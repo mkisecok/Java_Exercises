@@ -1,3 +1,3 @@
-# mortgage_java_calculator
+# Java
 
--my first java repo
+-my first java repo includes basic Exercises
